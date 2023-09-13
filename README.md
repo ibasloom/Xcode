@@ -15,3 +15,14 @@ How to install xcode and commandline tools
 
 
 ![](https://github.com/ibasloom/Xcode/blob/main/Picture/xcode.png)
+
+
+### 2 . Command Line Tools
+
+--------------
+
+
+### [To Download Command Line Tools](https://developer.apple.com/download/all/)
+
+
+![](https://github.com/ibasloom/Xcode/blob/main/Picture/Commandline.png)
