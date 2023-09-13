@@ -26,3 +26,17 @@ How to install xcode and commandline tools
 
 
 ![](https://github.com/ibasloom/Xcode/blob/main/Picture/Commandline.png)
+
+
+### 2 . CMD
+
+--------------
+![](https://github.com/ibasloom/Xcode/blob/main/Picture/CMD.png)
+
+```
+xcode-select --install
+```
+
+```
+xcode-select -p
+```
