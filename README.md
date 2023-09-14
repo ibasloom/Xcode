@@ -40,3 +40,25 @@ xcode-select --install
 ```
 xcode-select -p
 ```
+
+# How to Uninstall Xcode Command Line Tools
+--------------
+### 1 . Steps To Delete Xcode Command Line Tools
+```
+xcode-select -p
+```
+
+we will copy the path of that
+
+![](https://github.com/ibasloom/Xcode/blob/main/Picture/CMD%20rm.png)
+--------------
+### 2 . Check How many file and folders are there
+```
+ls /Applications/Xcode.app/Contents/Developer
+```
+
+### 3 . now we will remove all this using this command
+--------------
+```
+sudo rm -rf /Applications/Xcode.app/Contents/Developer
+```
